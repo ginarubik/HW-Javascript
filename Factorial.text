@@ -1,0 +1,7 @@
+Exercise: Simple Calculations
+Factorial calculation
+Create an input field where you can enter the argument
+Create a function that calculates the factorial
+Do not create a button but add an event handler to the input field's 'change' or 'input' event
+(try both and notice the difference)
+Print the result into an empty div element
